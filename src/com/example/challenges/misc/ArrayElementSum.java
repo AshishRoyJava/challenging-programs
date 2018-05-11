@@ -35,7 +35,7 @@ public class ArrayElementSum {
 			}
 			System.out.println("Time taken -> " + (System.currentTimeMillis() - time));
 		} catch (Exception e) {
-
+			e.printStackTrace();
 		}
 		
 	}
